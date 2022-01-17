@@ -79,7 +79,7 @@ The name of the variable is arbitrary. It is good practice to give variables a m
 
 Let's see some examples of the basic variable types: `int`, `str`, `float`.
 
-To assign a variable, we simply use the `=` statement after the name of the variable, like this:
+To assign a variable, we simply use the `=` operator after the name of the variable, like this:
 
 ```shell
 >>> name = 'Max'
