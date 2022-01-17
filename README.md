@@ -37,7 +37,7 @@ We will cover the basics of Python programming, starting from
 what Python is, to writing a piece of software for a simple
 real-world use case.
 
-Join our [Discord server](https://discord.gg/wwDs5TW4) to participate to the Monday Coding Lunches,
+Join our [Discord server](https://discord.gg/xa9Ck2nr) to participate to the Monday Coding Lunches,
 contribute to the discussion, ask questions, give feedback and what not.
 
 Become a `Develawpeer` yourself!
