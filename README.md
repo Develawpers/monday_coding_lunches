@@ -57,6 +57,8 @@ In this class we will cover:
 - Users input: `input()`
 - Conditional operators: `if - else`
 
+Go to [Lunch 0's files](/lunch_0)
+
 # Lunch 1
 
 Let's dig our hands into a bit of basic `string manipulation`
