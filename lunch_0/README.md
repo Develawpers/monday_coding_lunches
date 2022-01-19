@@ -184,7 +184,7 @@ If we want to convert them, we need to **reassign** them, like so:
 <class 'int'>
 ```
 
-So if we not try to add `5` to `a`, we will get the same error we got above with `b`:
+So, if we now try to add `5` to `a`, we will get the same error we got above with `b`:
 
 ```shell
 >>> a + 5
