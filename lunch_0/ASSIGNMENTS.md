@@ -17,8 +17,8 @@ Else, tell them that the drinking age is 18
 Assume that the legal age for driving is 18
 Ask a user for their name
 Ask a user for their age
-If their age is below the driving age, tell them how many years they have to wait
-Else if their age is equal to or greater than the driving age plus 10, tell them they have to renew their driving license
+If their age is below the driving age, tell them how many years they have to wait to drive
+Else if their age is equal to or greater than the driving age plus 10, tell them they have to renew their driver's license
 Else tell them that they can enjoy driving
 ```
 
