@@ -29,7 +29,7 @@ Ask a user for their name
 Ask a user where they live
 Ask a user for their age
 If they live in "USA" *and* they are below 21, tell them that they cannot drink, but they can have a gun instead
-Else, if they live in "USA" *and* their age is greater than or equal to 21, telle them that they can have both a gun and a beer
+Else, if they live in "USA" *and* their age is greater than or equal to 21, tell them that they can have both a gun and a beer
 Else, if they do not live in "USA" *and* their age is greater than or equal to 18, tell them that they can have a beer, but not a gun
 Else, tell them that they can have neither
 ```
