@@ -26,6 +26,7 @@ Sanitize the bio so that there are no spaces or special characters at the beginn
 Print out the length of the bio in number of characters and the number of times that each punctuation character `.,;` appears using `.format()` with keyword arguments, so that the output looks like this:
 
 "
+total length: 26
 fullstop: 3
 comma: 2
 semicolon: 0

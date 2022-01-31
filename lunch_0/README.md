@@ -334,3 +334,5 @@ Now, from your teminal, be sure to be in the same location of the file ([how do 
 `python3 lunch_0.py`
 
 Have fun!
+
+[Go to lunch_1](../lunch_1)

@@ -460,3 +460,6 @@ The `.join()` method joins a list of strings with the value its called from, lik
 ### More on strings
 
 You can find more info [here](https://www.w3schools.com/python/python_ref_string.asp)
+
+
+[back to lunch_0](../lunch_0) | [go to lunch_2](../lunch_2)

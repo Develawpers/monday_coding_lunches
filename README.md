@@ -65,8 +65,8 @@ Let's dig our hands into a bit of basic `string manipulation`
 
 - Basic string manipulation: `.strip()`, `.upper()`, `.lower()`, `.title()`
 - Basics of string formatting: the `f-string` and `.format()`
-- Basics of pattern matching: essentials of `Regular Expressions` (regex)
-- Importing a library: the `re` library
+
+Go to [Lunch 1's files](/lunch_1)
 
 # Lunch 2
 
@@ -79,7 +79,16 @@ Let's `loop`!
 - `Unpacking`
 - `Ownership` check
 
+Go to [Lunch 2's files](/lunch_2)
+
 # Lunch 3
+
+Pattern matching with regular expressions:
+
+- Basics of pattern matching: essentials of `Regular Expressions` (regex)
+- Importing a library: the `re` library
+
+# Lunch 4
   
 - The basics of `date manipulation`: the `datetime` library:
     - `parsing` dates
@@ -87,7 +96,7 @@ Let's `loop`!
     - date objects and their properties
     - `timedelta()`
     
-# Lunch 4
+# Lunch 5
 
 Let's give our code some structure
 
@@ -96,13 +105,13 @@ Let's give our code some structure
 - Scope: `if __name__ == '__main__':`
 
 
-# Lunch 5
+# Lunch 6
 
 Putting it all together - Some lawyery stuff:
 
 - deadlines in Italian civil procedure
 
-# Lunch 6
+# Lunch 7
 
 Putting it all together - Some EU lawyery stuff:
 
