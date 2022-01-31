@@ -206,7 +206,7 @@ If we want to access a value, but we're not sure if the `dict` has a certain key
 'prosecutor'
 ```
 
-if the key is not present, it will return `None` (or the default value provided: `.get("key", "default value"))
+if the key is not present, it will return `None` (or the default value provided: `.get("key", "default value")`)
 
 Dictionaries have some useful built-in methods, such as `.keys()` and `.values()`, that will return respectively an iterable of its keys and values.
 
