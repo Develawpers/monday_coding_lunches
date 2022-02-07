@@ -88,6 +88,8 @@ Pattern matching with regular expressions:
 - Basics of pattern matching: essentials of `Regular Expressions` (regex)
 - Importing a library: the `re` library
 
+Go to [Lunch 2's files](/lunch_3)
+
 # Lunch 4
   
 - The basics of `date manipulation`: the `datetime` library:
