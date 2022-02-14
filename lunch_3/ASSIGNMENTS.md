@@ -13,7 +13,7 @@ Given a text containing many emails, use `re.findall()` and unpacking to print o
 Use this text to test your code:
 
 ```
-"""Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non consequat leo. Pellentesque et enim enim auloagerio@gmail.com. Etiam et enim id justo dapibus faucibus eu quis massa. Praesent ac molestie dolor. Etiam urna neque, interdum ut finibus et, tristique ut nisl numerionegidio@hotmail.eu. Vivamus interdum ipsum vitae elementum facilisis. Proin tellus dolor, ultrices sed magna sed, facilisis convallis lorem mevio@justice.eu."""
+text = """Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non consequat leo. Pellentesque et enim enim auloagerio@gmail.com. Etiam et enim id justo dapibus faucibus eu quis massa. Praesent ac molestie dolor. Etiam urna neque, interdum ut finibus et, tristique ut nisl numerionegidio@hotmail.eu. Vivamus interdum ipsum vitae elementum facilisis. Proin tellus dolor, ultrices sed magna sed, facilisis convallis lorem mevio@justice.eu."""
 ```
 
 ## track 3
