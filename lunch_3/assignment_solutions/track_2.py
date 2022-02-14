@@ -18,5 +18,5 @@ text = """Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non conse
 # the regex we're using is a bit more advanced, and it has four groups. We want the third one (#2)
 
 for username, username0, domain, domain0 in re.findall(email_pattern, text):
-    # ('auloagerio', 'auloageri', 'gmail.com', 'gmail')
+    # [('auloagerio', 'auloageri', 'gmail.com', 'gmail'), ...]
     print(domain)
