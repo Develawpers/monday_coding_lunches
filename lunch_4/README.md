@@ -32,9 +32,9 @@ We can access some properties and methods of this object.
 2
 >>> today.day
 14
->>> d.isoformat()
+>>> today.isoformat()
 '2022-02-14'
->>> d.weekday()
+>>> today.weekday()
 0   # <--- it's Monday!
 >>> 
 ```
@@ -44,7 +44,7 @@ We can play around with dates using the `timedelta` object:
 ```shell
 >>> from datetime import timedelta
 >>> td = timedelta(days=1)
->>> tomorrow = d + td
+>>> tomorrow = today + td
 >>> tomorrow
 datetime.date(2022, 2, 15)
 ```
