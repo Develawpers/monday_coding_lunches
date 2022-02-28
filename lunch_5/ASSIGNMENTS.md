@@ -5,7 +5,7 @@ To practice what we've learned on our fourth lunch, try and write one or more Py
 ## track 1
 
 Write a python script that uses three different functions to:
-- ask a user their name
+- ask a user their age
 - ask a user their date of birth
 - calculate their age in days
 
