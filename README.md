@@ -88,7 +88,7 @@ Pattern matching with regular expressions:
 - Basics of pattern matching: essentials of `Regular Expressions` (regex)
 - Importing a library: the `re` library
 
-Go to [Lunch 2's files](/lunch_3)
+Go to [Lunch 3's files](/lunch_3)
 
 # Lunch 4
   
@@ -97,6 +97,8 @@ Go to [Lunch 2's files](/lunch_3)
     - `formatting` dates
     - date objects and their properties
     - `timedelta()`
+
+Go to [Lunch 4's files](/lunch_4)
     
 # Lunch 5
 
@@ -106,6 +108,7 @@ Let's give our code some structure
 - Classes: `class`  
 - Scope: `if __name__ == '__main__':`
 
+Go to [Lunch 5's files](/lunch_5)
 
 # Lunch 6
 
@@ -113,8 +116,12 @@ Putting it all together - Some lawyery stuff:
 
 - deadlines in Italian civil procedure
 
+Go to [Lunch 6's files](/lunch_6)
+
 # Lunch 7
 
 Putting it all together - Some EU lawyery stuff:
 
 - deadlines in the EU small claim procedure
+
+Go to [Lunch 7's files](/lunch_7)
